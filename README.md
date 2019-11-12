@@ -17,3 +17,15 @@ go run fundamentals/packages/main.go
 ```
 go run fundamentals/flowcontrol/main.go
 ```
+
+#### Basic types and structures
+
+```
+go run fundamentals/basictypes/main.go
+```
+
+#### Structs, Functions, Pointers & Values
+
+```
+go run fundamentals/types/main.go
+```
